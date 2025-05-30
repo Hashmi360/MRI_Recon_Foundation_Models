@@ -1,1 +1,1 @@
-# Can-Natural-Domain-Foundation-Models-Be-Applied-to-Cardiac-MRI-Reconstruction?
+# Can Natural Domain Foundation Models Be Applied to Cardiac MRI Reconstruction?
